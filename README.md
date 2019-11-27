@@ -29,3 +29,8 @@ initialization to get localization results its original image.
 ### local_mirror: 
 we use a local cascaded pose regression with robust
 initialization to get localization results its mirror image.
+
+
+## Results: 
+
+the results is in the folder "results".
