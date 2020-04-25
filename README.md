@@ -1,6 +1,6 @@
 # Tscpr
 
-![image-20200425223547796](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20200425223547796.png)
+![image-20200425223547796](https://github.com/DuoLong/Tscpr/blob/master/results/pipeline.pdf)
 
 
 ## Robust Initialization：
