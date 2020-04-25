@@ -1,6 +1,6 @@
 # Tscpr
 
-![image-20200425223547796](https://github.com/DuoLong/Tscpr/blob/master/results/pipeline.pdf)
+![image](https://github.com/DuoLong/Tscpr/blob/master/results/pipeline.png)
 
 
 ## Robust Initialization：
