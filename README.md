@@ -1,4 +1,4 @@
-# Tscpr
+# Face Alignment Using Two-Stage Cascaded Pose Regression and Mirror Error Correction(Tscpr)
 
 ![image](https://github.com/DuoLong/Tscpr/blob/master/results/pipeline.png)
 
@@ -13,11 +13,11 @@ We use a Robust Initialization for Cascaded Pose Regression (RICPR) by providing
 
 **Requirement**
 
-- opencv
+- OPENCV
 
-  ​	I use cv2 for image io and resize(much faster than skimage), the input image's channel is acutally BGR
+  ​	We use cv2 for image IO and resize(much faster than skimage), the input image's channel is acutally BGR
 
-- mxnet
+- MXNET
 
   ​	please update to the newest version, we need 'full' mode in Pooling operation
 
