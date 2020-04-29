@@ -15,7 +15,7 @@
 
   ​	please update to the newest version, we need 'full' mode in Pooling operation
 
-  ​ Only tested on Linux and Mac.
+  ​ Only tested on Linux and Windows.
   
 ## Robust Initialization：
 
