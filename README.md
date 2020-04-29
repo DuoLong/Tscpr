@@ -1,4 +1,4 @@
-# Face Alignment Using Two-Stage Cascaded Pose Regression and Mirror Error Correction(Tscpr)
+# Face Alignment Using Two-Stage Cascaded Pose Regression and Mirror Error Correction(TSCPR)
 
 ![image](https://github.com/DuoLong/Tscpr/blob/master/results/pipeline.png)
 
