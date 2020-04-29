@@ -83,6 +83,10 @@ rcpr_with_initialization_mirror/FULL_demoRCPR.m
 correction_model/Correlation_model/zhenshi_jiance.m
 correction_model/Correlation_model/jiance_jingxiang.m
 correction_model/Correlation_model/myPearson.m
+```
+**The global average correlation of $e_m$ and $e_a$ on the COFW dataset.**
+![image](https://github.com/DuoLong/Tscpr/blob/master/results/xiangguan_quanju.png)
+```
 correction_model/dingquezhi_tichu.m
 correction_model/zhengli.m
 ```
@@ -135,6 +139,10 @@ Local_mirror/Integration.m
 correction_model/Correlation_model/zhenshi_jiance.m
 correction_model/Correlation_model/jiance_jingxiang.m
 correction_model/Correlation_model/myPearson.m
+```
+**The local average correlation of $e_m$ and $e_a$ on the COFW dataset.**
+![image](https://github.com/DuoLong/Tscpr/blob/master/results/xiangguan_jubu.png)
+```
 correction_model/dingquezhi_tichu.m
 correction_model/zhengli.m
 ```
