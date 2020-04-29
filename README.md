@@ -3,6 +3,19 @@
 ![image](https://github.com/DuoLong/Tscpr/blob/master/results/pipeline.png)
 
 
+**Install Requirement**
+First, make sure you have OPENCV and MXNET already installed.
+
+- OPENCV [How to install OPENCV](https://docs.opencv.org/master/d3/d52/tutorial_windows_install.html "With a Title"). 
+
+  ​	We use cv2 for image IO and resize(much faster than skimage), the input image's channel is acutally BGR
+
+- MXNET [How to install MXNET](https://mxnet.apache.org/get_started/? "With a Title").
+
+  ​	please update to the newest version, we need 'full' mode in Pooling operation
+
+  ​ Only tested on Linux and Mac.
+  
 ## Robust Initialization：
 
 We use a Robust Initialization for Cascaded Pose Regression (RICPR) by providing texture and pose correlated initial shapes for the testing face.
@@ -10,18 +23,6 @@ We use a Robust Initialization for Cascaded Pose Regression (RICPR) by providing
 ### **Pose correlated initialization:**
 
 **MTCNN:**
-
-**Requirement**
-
-- OPENCV [Install](https://docs.opencv.org/master/d3/d52/tutorial_windows_install.html "With a Title"). 
-
-  ​	We use cv2 for image IO and resize(much faster than skimage), the input image's channel is acutally BGR
-
-- MXNET [Install](https://mxnet.apache.org/get_started/? "With a Title").
-
-  ​	please update to the newest version, we need 'full' mode in Pooling operation
-
-​    Only tested on Linux and Mac.
 
 **Test**
 
