@@ -84,7 +84,7 @@ correction_model/Correlation_model/zhenshi_jiance.m
 correction_model/Correlation_model/jiance_jingxiang.m
 correction_model/Correlation_model/myPearson.m
 ```
-**The global average correlation of $e_m$ and $e_a$ on the COFW dataset.**
+The global average correlation of mirror error and localization error  on the COFW dataset.
 ![image](https://github.com/DuoLong/Tscpr/blob/master/results/xiangguan_quanju.png)
 ```
 correction_model/dingquezhi_tichu.m
@@ -140,12 +140,15 @@ correction_model/Correlation_model/zhenshi_jiance.m
 correction_model/Correlation_model/jiance_jingxiang.m
 correction_model/Correlation_model/myPearson.m
 ```
-**The local average correlation of $e_m$ and $e_a$ on the COFW dataset.**
+The local average correlation of mirror error and localization error on the COFW dataset：
 ![image](https://github.com/DuoLong/Tscpr/blob/master/results/xiangguan_jubu.png)
 ```
 correction_model/dingquezhi_tichu.m
 correction_model/zhengli.m
 ```
+
+In the following figure, the red markers in the rst row is unreliable results and the green markers in the first row is reliable results. The second row is the adjusted results on the HELEN dataset.
+![image](https://github.com/DuoLong/Tscpr/blob/master/results/fail1vs.png)
 
 ## Results:
 
