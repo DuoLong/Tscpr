@@ -13,7 +13,7 @@ We use a Robust Initialization for Cascaded Pose Regression (RICPR) by providing
 
 **Requirement**
 
-- OPENCV
+- OPENCV[install]：https://docs.opencv.org/master/d3/d52/tutorial_windows_install.html 
 
   ​	We use cv2 for image IO and resize(much faster than skimage), the input image's channel is acutally BGR
 
