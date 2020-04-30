@@ -155,7 +155,7 @@ In the following figure, the red markers in the rst row is unreliable results a
 Some results is shown in the folder "results". Here is the results and some examples on COFW datasets.
 
 
-**Results on COFW datasets**
+**Results on COFW datasets:**
 
 ![image](https://github.com/DuoLong/Tscpr/blob/master/results/COFW_results.png)
 
@@ -164,6 +164,6 @@ Some results is shown in the folder "results". Here is the results and some exam
 ![image](https://github.com/DuoLong/Tscpr/blob/master/results/cofwresult_vs_best.png)
 
 
-**More xamples on COFW datasets**
+**More examples on COFW datasets:**
 ![image](https://github.com/DuoLong/Tscpr/blob/master/results/cofw1.png)
 
