@@ -171,5 +171,5 @@ Some results is shown in the folder "results". Here is the results and some exam
 
 
 **More examples on COFW datasets:**
-![image](https://github.com/DuoLong/Tscpr/blob/master/results/cofw1.png)
-<div align=center><img width="700" height="400" src="https://github.com/DuoLong/Tscpr/blob/master/results/cofw1.png"/></div>
+
+<div align=center><img width="700" height="500" src="https://github.com/DuoLong/Tscpr/blob/master/results/cofw1.png"/></div>
