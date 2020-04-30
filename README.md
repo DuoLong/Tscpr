@@ -87,6 +87,7 @@ correction_model/Correlation_model/myPearson.m
 ```
 The global average correlation of mirror error and localization error  on the COFW dataset.
 ![image](https://github.com/DuoLong/Tscpr/blob/master/results/xiangguan_quanju.png)
+<div align=center><img width="500" height="350" src="https://github.com/DuoLong/Tscpr/blob/master/results/xiangguan_quanju.png"/></div>
 ```
 correction_model/dingquezhi_tichu.m
 correction_model/zhengli.m
