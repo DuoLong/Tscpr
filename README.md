@@ -154,6 +154,8 @@ correction_model/zhengli.m
 
 In the following figure, the red markers in the rst row is unreliable results and the green markers in the first row is reliable results. The second row is the adjusted results on the HELEN dataset.
 ![image](https://github.com/DuoLong/Tscpr/blob/master/results/fail1vs.png)
+<div align=center><img width="600" height="400" src="https://github.com/DuoLong/Tscpr/blob/master/results/xiangguan_fail1vs.png"/></div>
+
 
 ## Results:
 
