@@ -161,7 +161,7 @@ Some results is shown in the folder "results". Here is the results and some exam
 
 
 **Examples of facial landmark localization comparison on COFW. The rows from top to button are the examples of RCPR, HPM, RICPR and TSCPR(Ours), respectively.**
-![image](https://github.com/DuoLong/Tscpr/blob/master/results/cofwresult_vs_best.png)
+![image](https://github.com/DuoLong/Tscpr/blob/master/results/cofwresult_vs_best.png,width="200")
 
 
 **More examples on COFW datasets:**
