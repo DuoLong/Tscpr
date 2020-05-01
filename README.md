@@ -158,7 +158,7 @@ In the following figure, the red markers in the rst row is unreliable results a
 
 ## Results:
 
-Some results is shown in the folder "results". Here is the results and some examples on COFW datasets.
+ Here is the results and some examples on COFW datasets. More results is shown in the folder "results".
 
 
 **Results on COFW datasets:**
