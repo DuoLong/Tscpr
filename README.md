@@ -145,8 +145,8 @@ correction_model/Correlation_model/jiance_jingxiang.m
 correction_model/Correlation_model/myPearson.m
 ```
 The local average correlation of mirror error and localization error on the COFW dataset：
-<div align=center><img width="500" height="350" src="https://github.com/DuoLong/Tscpr/blob/master/results/xiangguan_jubu.png"/></div>
 
+<div align=center><img width="500" height="350" src="https://github.com/DuoLong/Tscpr/blob/master/results/xiangguan_quanju.png"/></div>
 
 ```
 correction_model/dingquezhi_tichu.m
@@ -155,7 +155,7 @@ correction_model/zhengli.m
 
 In the following figure, the red markers in the rst row is unreliable results and the green markers in the first row is reliable results. The second row is the adjusted results on the HELEN dataset.
 <div align=center><img width="600" height="400" src="https://github.com/DuoLong/Tscpr/blob/master/results/fail1vs.png"/></div>
-<div align=center><img width="500" height="350" src="https://github.com/DuoLong/Tscpr/blob/master/results/xiangguan_quanju.png"/></div>
+
 
 
 ## Results:
